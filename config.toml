@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = ""
+baseURL = "https://formation-permaculture.fr/"
+languageCode = "fr-fr"
+title = "formation-permaculture.fr"
+theme = "clean"
+[Params]
+description = "Se former en permaculture"

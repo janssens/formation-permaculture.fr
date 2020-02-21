@@ -1,12 +1,15 @@
-# Se former à la permaculture ?!
+---
+title: "Se former en permaculture"
+date: 2020-02-17T12:10:55+01:00 
+draft: true
+---
 
 Vous cherchez une formation en permaculture, mais vous ne savez pas comment choisir ?
 Nous allons tenter de vous donner quelques pistes…
-Il existe de nombreux stages et formations sur le sujet, avec divers niveaux de qualité...
+Il existe de nombreux stages et formations sur le sujet, avec divers niveaux de qualité…
 Alors comment choisir la formation qui répond à votre besoin ?
 
-
-## Que peut vous apporter la permaculture ?
+# Que peut vous apporter la permaculture ?
 
 La permaculture est à la fois l’art de jardiner des écosystèmes et une méthode efficace pour concevoir (on dit "designer") son projet.
 Ces deux aspects sont complémentaires, comme les deux hémisphères du cerveau humain :
@@ -23,7 +26,7 @@ En permaculture le jardin est partout.
 
 « Tout se jardine »  Bill Mollisson (co-concepteur de la permaculture)
 
-## Comment choisir sa formation en permaculture ?
+# Comment choisir sa formation en permaculture ?
 
 Au-delà de l’activité loisir-découverte de la permaculture, si vous vous engagez dans une transition et que vous cherchez un mode de vie plus cohérent, alors le design est essentiel.
 
@@ -47,4 +50,4 @@ Aux Alvéoles nous proposons des formations selon votre besoin :
 L’Université des Alvéoles propose une large gamme de formations pour tous les niveaux, animés par des permaculteurs expérimentés, sur des lieux aussi inspirants que ressourçant !
 Profitez de 10 ans d’expériences en facilitation de projet de permaculture !
 
-Retrouvez toutes nos formations sur notre site : https://universite-alveoles.fr
+Retrouvez toutes nos formations sur notre site : [universite-alveoles.fr](https://universite-alveoles.fr/?utm_source=formation-permaculture.fr).
