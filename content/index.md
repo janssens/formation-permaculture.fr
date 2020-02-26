@@ -32,7 +32,7 @@ En permaculture le jardin est partout.
 
 Au-delà de l’activité loisir-découverte de la permaculture, si vous vous engagez dans une transition et que vous cherchez un mode de vie plus cohérent, alors le design est essentiel.
 
-Choisir un organisme de formation de qualité :
+Voici quelques points pour choisir un organisme de formation de qualité :
 
 * Assurez vous que les formateurs s’appuient sur une expérience vécue (et non pas seulement sur des livres qu’ils ont lus)
 * Assurez vous que le programme réponde à votre besoin (équilibre entre contenus théoriques et pratiques / temps réservé au design de votre projet)
