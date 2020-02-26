@@ -3,8 +3,6 @@ title: Se former en permaculture
 date: 2020-02-17T11:10:55.000+00:00
 
 ---
-![Permaculture humaine](/uploads/mini_DSCF8604.jpeg "Permaculture")
-
 Vous cherchez une formation en permaculture, mais vous ne savez pas comment choisir ?
 Nous allons tenter de vous donner quelques pistes…
 Il existe de nombreux stages et formations sur le sujet, avec divers niveaux de qualité…
